@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "search",
+      "value": "search..."
+    },
+    {
+      "name": "bottom_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "bottom_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "bottom_text_home",
+      "value": "Home"
+    },
+    {
+      "name": "bottom_text_drag",
+      "value": "Drag&Drop"
+    },
+    {
+      "name": "bottom_text_mouse",
+      "value": "Mouse Event"
+    },
+    {
+      "name": "bottom_text_keyboard",
+      "value": "Keyboard Event"
+    },
+    {
+      "name": "bottom_text_device",
+      "value": "Device Setting"
+    },
+    {
+      "name": "bottom_text_window",
+      "value": "Window Event"
+    },
+    {
+      "name": "bottom_text_nav",
+      "value": "NavOption"
+    }
+  ]
+}
