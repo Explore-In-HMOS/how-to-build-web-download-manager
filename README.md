@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # How To Build Web Download Manager
 A wearable file download manager for web content that uses WebDownloadManager for initiating and queuing downloads from web pages, WebDownloadDelegate for receiving progress callbacks (bytes received, total size, speed), WebDownloadItem for inspecting individual download metadata (URL, MIME type, suggested filename), and WebHttpBodyStream for streaming HTTP response bodies in chunks for memory-efficient processing. The codelab demonstrates downloading podcast episodes or offline maps from a web page directly to the watch, with a progress ring UI and pause/resume controls.
